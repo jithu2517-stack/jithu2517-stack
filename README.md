@@ -14,13 +14,19 @@ First-year B.Tech CSE (AI & ML) student at VIT-AP University, building AI automa
 - 🌱 Learning in public — self-taught in AI/ML fundamentals and modern dev workflows
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-jith-602aa9343/)
 
-### 🛠️ Featured Projects
+### 🛠️ Projects I’m building
 
-**[MasterCraft](https://github.com/jithu2517-stack/mastercraft)** — Multi-pass LLM augmentation engine (draft → critique → polish) with cost guardrails, sandboxed code verification, and a plugin system for custom domains.
+**[MasterCraft](https://github.com/jithu2517-stack/mastercraft)** — A multi-pass LLM workflow (draft → critique → polish) with cost guardrails, reproducible evaluation scaffolding, and optional local code checks.
 
-**[PromptSmith](https://github.com/jithu2517-stack/promptsmith)** — A prompt engineering toolkit bringing software engineering practices (version control, A/B testing, caching, evals) to prompt development.
+**[PromptSmith](https://github.com/jithu2517-stack/promptsmith)** — A prompt-engineering CLI and Python library for versioned prompt vaults, tests, caching, and provider-based evaluation. Published as `promptsmith-ai` while retaining the `promptsmith` CLI/import.
 
 **[HumanTouch](https://github.com/jithu2517-stack/humantouch)** — Post-processing middleware that transforms robotic AI text output into natural, personable writing across 5 transformation layers.
+
+**CORA** — An experimental research direction: testing whether smaller models paired with retrieval, memory, tools, and verification can handle targeted agentic workflows. Early-stage; results will be documented as experiments, not claims.
+
+**Akshayzilla** — A local-first assistant concept for voice-driven browser and computer workflows, designed around explicit user control and practical automation.
+
+My focus is building thoughtful AI systems: reliable tooling, reproducible evaluation, and useful automation rather than demo-only prototypes.
 
 ### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -33,3 +39,4 @@ First-year B.Tech CSE (AI & ML) student at VIT-AP University, building AI automa
 
 ---
 <p align="center"><i>Always open to collaborating on AI/ML, automation, and full-stack projects!</i></p>
+
