@@ -4,6 +4,8 @@
 First-year B.Tech CSE (AI & ML) student at VIT-AP University, building AI automation tools, full-stack apps, and clean UI/UX experiences.
 </p>
 
+<p align="center"><a href="https://akshay-jith-portfolio.zeuz123.chatgpt.site/">Explore my portfolio</a> · Projects, skills, and Akshayzilla — my Gemini-powered portfolio guide.</p>
+
 ---
 
 ### 🚀 About Me
@@ -12,7 +14,7 @@ First-year B.Tech CSE (AI & ML) student at VIT-AP University, building AI automa
 - 💻 Building Full-Stack applications end-to-end
 - 🎨 Interested in UI/UX Design and product craft
 - 🌱 Learning in public — self-taught in AI/ML fundamentals and modern dev workflows
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-jith-602aa9343/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-jith-a-s-602aa9343/)
 
 ### 🛠️ Projects I’m building
 
